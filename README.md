@@ -1,6 +1,8 @@
 <h1>🔗 &nbsp;Hi there, nice to see you 👋 </h1>
 
 <p>Welcome to my page! </br> I'm Adrian, Frontend developer from  <img src="https://cdn-icons-png.flaticon.com/512/330/330474.png" width="13"/> <b>Warsaw, Poland</b>. </p>
+<p>I am a graduate with a Bachelor's degree in Sociology. My passion is programming, I am constantly developing in this field and would like to associate my future with it.
+Experienced in React, Node and JavaScript, with a strong desire to continuously learn and improve.</p>
 
 
 <h2>🔗 &nbsp;Things i code with: </h2>
