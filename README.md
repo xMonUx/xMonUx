@@ -1,11 +1,11 @@
-#<h1> Hi there, nice to see you 👋 </h1>
+<h1>🔗 &nbsp;Hi there, nice to see you 👋 </h1>
 
-<p>Welcome to my page! </br> I'm Adrian, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330474.png" width="13"/> <b>Warsaw, Poland</b>. </p>
+<p>Welcome to my page! </br> I'm Adrian, Frontend developer from  <img src="https://cdn-icons-png.flaticon.com/512/330/330474.png" width="13"/> <b>Warsaw, Poland</b>. </p>
 
 
-## Things i code with:
+<h1>🔗 &nbsp;Things i code with: </h1>h1>
 
-<p>
+<center><p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -22,24 +22,16 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+</p></center>
 
-### Connect with me:
+<h3>🔗 &nbsp;Connect with me: </h3>
+<p align="left">
+<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
